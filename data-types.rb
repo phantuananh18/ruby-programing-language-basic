@@ -48,4 +48,8 @@ print "\n"
 
 ###### 6.Symbols
 puts "### Symbols ###"
-symbol = 
+symbol = {:ap => "Apple", :bn => "Banana", :mg => "Mango"}
+
+puts symbol[:ap]
+puts symbol[:bn]
+puts symbol[:mg]
