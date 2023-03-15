@@ -1,7 +1,7 @@
-END{
+END{ # the logic code output console after run code in BEGIN
     print "Basic Ruby is training for 2 week." # output console and not new line
 }
-BEGIN{
+BEGIN{ # the logic code run first 
     print "My name is Tuan Anh."
     puts " I learning Ruby language for support DC8 project." # output console and new line
     puts "#####################################################"
