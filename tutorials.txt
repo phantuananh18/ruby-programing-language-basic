@@ -1,0 +1,5 @@
+This file contains knowledge!Hello Ruby on Rails!
+Tuan Anh, Phan
+Huy, Nguyen
+aaaaaaaa
+bbbbbbb
